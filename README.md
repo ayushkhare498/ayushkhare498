@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushkhare498
+# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/ayushkhare498) 
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on interesting projects
