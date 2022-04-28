@@ -21,6 +21,13 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me at ayush.khare498@gmail.com
 
+![age](https://img.shields.io/badge/age-22-blue)
+![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
+![focus#3](https://img.shields.io/badge/focus-Machine_Learning-purple)
+![living](https://img.shields.io/badge/living-GURUGRAM,_HR-3c9)
+![education](https://img.shields.io/badge/college-VIT,_Vellore,_TN-red)
+</b></p>
+
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
