@@ -1,5 +1,7 @@
 # Hey Everyone! I'm [Ayush Khare](https://github.com/ayushkhare498)  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 <a href="https://www.linkedin.com/in/ayush-khare-038b4b206/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
