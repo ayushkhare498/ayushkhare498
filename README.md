@@ -1,7 +1,4 @@
-# Hey Everyone! I'm [Ayush Khare](https://github.com/ayushkhare498) 
-
-
- <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Ayush Khare](https://github.com/ayushkhare498)  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/ayush-khare-038b4b206/">
