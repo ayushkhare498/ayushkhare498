@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/ayush_khare007/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<br><br>
 
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Javascript
