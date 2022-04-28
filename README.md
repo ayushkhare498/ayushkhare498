@@ -1,5 +1,5 @@
 # Hey Everyone! I'm [Ayush Khare](https://github.com/ayushkhare498)  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br><br>
+
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
