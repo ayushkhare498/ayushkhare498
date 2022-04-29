@@ -16,6 +16,7 @@
 </a>
 <a href="https://twitter.com/Gryffin498">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
 <br><br>
 
 - 👀 I’m interested in machine learning
