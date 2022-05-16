@@ -58,8 +58,6 @@
  </span>
 
 <br><br>
-<a href="https://github.com/ayushkhare498">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkhare498&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkhare498&langs_count=8)](https://github.com/ayushkhare498/github-readme-stats)
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
